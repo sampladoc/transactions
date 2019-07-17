@@ -36,9 +36,13 @@ grails run-app
 
 ## Endpoints
 /transaction
+
 /transaction/create
+
 /transaction/index
+
 /transaction/show/id
+
 /transaction/edit/id
 
 Please make sure to update tests as appropriate.
