@@ -35,6 +35,12 @@ grails run-app
 ```
 
 ## Endpoints
+
+navigate directly to endpoints in browswer to see view or use the below curl command to get a json object of results
+
+```bash
+curl -i -H "Accept: application/json" "http://localhost:8080/endpoint"
+```
 /transaction
 
 /transaction/create
